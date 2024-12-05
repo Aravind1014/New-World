@@ -11,7 +11,7 @@
 # if secret==b:
 #  print ("win")
 # else:
-#  print("loose")
+#  print("lose")
 
 # b = int(input("enter the number:"))
 # if b%3==0 and b%5==0:
